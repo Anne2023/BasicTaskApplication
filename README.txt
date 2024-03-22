@@ -1,4 +1,4 @@
-#ToDo App
+ToDo App
 
 O ToDo App é uma aplicação simples de lista de tarefas desenvolvida em Kotlin, permitindo que os usuários criem, visualizem, atualizem e excluam tarefas a fazer.
 
